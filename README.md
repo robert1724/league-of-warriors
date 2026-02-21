@@ -7,6 +7,7 @@ Overview
 
 Authentication
   - The game reads account data from a JSON file. The player enters their email and password, then selects one of three characters tied to their account: "Warrior", "Mage", or "Rogue"
+  - To start the game use an account created already in the JSON file, or add your own!
 
 Map
   - The grid is generated randomly each level with at least: 4 enemies, 2 sanctuaries, 1 portal and 1 player cell
